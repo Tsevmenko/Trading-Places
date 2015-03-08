@@ -1,0 +1,12 @@
+D:\TradingPlacesWF\Migration\bin\Debug\Migration.dll.config
+D:\TradingPlacesWF\Migration\bin\Debug\Migration.dll
+D:\TradingPlacesWF\Migration\bin\Debug\Migration.pdb
+D:\TradingPlacesWF\Migration\bin\Debug\EntityFramework.dll
+D:\TradingPlacesWF\Migration\bin\Debug\EntityFramework.SqlServer.dll
+D:\TradingPlacesWF\Migration\bin\Debug\EntityFramework.xml
+D:\TradingPlacesWF\Migration\bin\Debug\EntityFramework.SqlServer.xml
+D:\TradingPlacesWF\Migration\obj\Debug\Migration.csprojResolveAssemblyReference.cache
+D:\TradingPlacesWF\Migration\obj\Debug\Migration.Migrations.CreateTables.resources
+D:\TradingPlacesWF\Migration\obj\Debug\Migration.csproj.GenerateResource.Cache
+D:\TradingPlacesWF\Migration\obj\Debug\Migration.dll
+D:\TradingPlacesWF\Migration\obj\Debug\Migration.pdb

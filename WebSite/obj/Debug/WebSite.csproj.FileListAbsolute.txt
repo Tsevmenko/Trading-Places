@@ -1,0 +1,4 @@
+D:\TradingPlacesWF\WebSite\bin\WebSite.dll
+D:\TradingPlacesWF\WebSite\bin\WebSite.pdb
+D:\TradingPlacesWF\WebSite\obj\Debug\WebSite.dll
+D:\TradingPlacesWF\WebSite\obj\Debug\WebSite.pdb

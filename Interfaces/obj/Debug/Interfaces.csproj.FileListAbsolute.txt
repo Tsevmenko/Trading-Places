@@ -1,0 +1,10 @@
+D:\TradingPlacesWF123\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\TradingPlacesWF\Interfaces\bin\Debug\Interfaces.dll
+D:\TradingPlacesWF\Interfaces\bin\Debug\Interfaces.pdb
+D:\TradingPlacesWF\Interfaces\bin\Debug\Date.dll
+D:\TradingPlacesWF\Interfaces\bin\Debug\Resourses.dll
+D:\TradingPlacesWF\Interfaces\bin\Debug\Date.pdb
+D:\TradingPlacesWF\Interfaces\bin\Debug\Resourses.pdb
+D:\TradingPlacesWF\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\TradingPlacesWF\Interfaces\obj\Debug\Interfaces.dll
+D:\TradingPlacesWF\Interfaces\obj\Debug\Interfaces.pdb

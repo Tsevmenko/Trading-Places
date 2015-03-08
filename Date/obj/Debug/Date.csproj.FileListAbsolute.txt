@@ -1,0 +1,70 @@
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.dll
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Date.pdb
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.dll
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\bin\Debug\Resourses.pdb
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.dll
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Date\obj\Debug\Date.pdb
+D:\TradingPlacesWF\Date\bin\Debug\Date.dll
+D:\TradingPlacesWF\Date\bin\Debug\Date.pdb
+D:\TradingPlacesWF\Date\bin\Debug\Resourses.dll
+D:\TradingPlacesWF\Date\bin\Debug\Resourses.pdb
+D:\TradingPlacesWF\Date\obj\Debug\Date.csprojResolveAssemblyReference.cache
+D:\TradingPlacesWF\Date\obj\Debug\Date.dll
+D:\TradingPlacesWF\Date\obj\Debug\Date.pdb

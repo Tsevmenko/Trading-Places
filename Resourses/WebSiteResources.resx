@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ContactAnytime" xml:space="preserve">
+    <value>Anytime</value>
+  </data>
+  <data name="ContactFidayAM" xml:space="preserve">
+    <value>Fiday AM</value>
+  </data>
+  <data name="ContactFidayPM" xml:space="preserve">
+    <value>Fiday PM</value>
+  </data>
+  <data name="ContactMessageHeader" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="ContactMondayAM" xml:space="preserve">
+    <value>Monday AM</value>
+  </data>
+  <data name="ContactMondayPM" xml:space="preserve">
+    <value>Monday PM</value>
+  </data>
+  <data name="ContactPhoneNumber" xml:space="preserve">
+    <value>xxx-xxxx-xxxx</value>
+  </data>
+  <data name="ContactSaturdayAM" xml:space="preserve">
+    <value>Saturday AM</value>
+  </data>
+  <data name="ContactSaturdayPM" xml:space="preserve">
+    <value>Saturday PM</value>
+  </data>
+  <data name="ContactThursdayAM" xml:space="preserve">
+    <value>Thursday AM</value>
+  </data>
+  <data name="ContactThursdayPM" xml:space="preserve">
+    <value>Thursday PM</value>
+  </data>
+  <data name="ContactTitle" xml:space="preserve">
+    <value>Title</value>
+  </data>
+  <data name="ContactTitle1" xml:space="preserve">
+    <value>Complaint</value>
+  </data>
+  <data name="ContactTitle2" xml:space="preserve">
+    <value>Offer</value>
+  </data>
+  <data name="ContactTitle3" xml:space="preserve">
+    <value>Another Question</value>
+  </data>
+  <data name="ContactWednesdayAM" xml:space="preserve">
+    <value>Wednesday AM</value>
+  </data>
+  <data name="ContactWednesdayPM" xml:space="preserve">
+    <value>Wednesday PM</value>
+  </data>
+  <data name="ContatTuesdayAM" xml:space="preserve">
+    <value>Tuesday AM</value>
+  </data>
+  <data name="ContatTuesdayPM" xml:space="preserve">
+    <value>Tuesday PM</value>
+  </data>
+  <data name="PLAboutUs" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="PLBuying" xml:space="preserve">
+    <value>Buying</value>
+  </data>
+  <data name="PLContactUs" xml:space="preserve">
+    <value>Contact Us</value>
+  </data>
+  <data name="PLHome" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="PLIntro" xml:space="preserve">
+    <value>Independent Estate &amp; Letting Agents | Property Management Services | Call 020 8558 1147</value>
+  </data>
+  <data name="PLLandlords" xml:space="preserve">
+    <value>Landlords</value>
+  </data>
+  <data name="PLLeftNavPanel" xml:space="preserve">
+    <value>_LeftNavPanel</value>
+  </data>
+  <data name="PLRenting" xml:space="preserve">
+    <value>Renting</value>
+  </data>
+  <data name="PLSelling" xml:space="preserve">
+    <value>Selling</value>
+  </data>
+  <data name="PLTrandingPlace" xml:space="preserve">
+    <value>Tranding Place</value>
+  </data>
+  <data name="text2Buy" xml:space="preserve">
+    <value>To Buy</value>
+  </data>
+  <data name="text2Find" xml:space="preserve">
+    <value>Find a Property</value>
+  </data>
+  <data name="text2Looking" xml:space="preserve">
+    <value>Looking to Sell?</value>
+  </data>
+  <data name="text2Lorem" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim</value>
+  </data>
+  <data name="text2Read" xml:space="preserve">
+    <value>Read More</value>
+  </data>
+  <data name="text2Register" xml:space="preserve">
+    <value>Register With Us</value>
+  </data>
+  <data name="text2Rent" xml:space="preserve">
+    <value>To Rent</value>
+  </data>
+  <data name="text2ServicesLandlords" xml:space="preserve">
+    <value>Services for Landlords</value>
+  </data>
+  <data name="text3Lorem" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim</value>
+  </data>
+  <data name="text3Read" xml:space="preserve">
+    <value>Read More</value>
+  </data>
+  <data name="text3Request" xml:space="preserve">
+    <value>Request a Valuation</value>
+  </data>
+  <data name="text4Lorem" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim</value>
+  </data>
+  <data name="text4Request" xml:space="preserve">
+    <value>Request a Valuation</value>
+  </data>
+  <data name="textAdr1" xml:space="preserve">
+    <value>46 Church Lane</value>
+  </data>
+  <data name="textAdr2" xml:space="preserve">
+    <value>Leytonstone, London</value>
+  </data>
+  <data name="textBest" xml:space="preserve">
+    <value>Best time to contact you</value>
+  </data>
+  <data name="textCall" xml:space="preserve">
+    <value>Are you considering selling, buying, letting or renting? We offer professional property services designed to meet your needs... Experience the difference, call us now on 020 8558 1147.</value>
+  </data>
+  <data name="textContactus" xml:space="preserve">
+    <value>Contact us</value>
+  </data>
+  <data name="textE111HE" xml:space="preserve">
+    <value>E11 1HE</value>
+  </data>
+  <data name="textEmail" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="textFax" xml:space="preserve">
+    <value>Fax:</value>
+  </data>
+  <data name="textFax020" xml:space="preserve">
+    <value>020 8556 6665</value>
+  </data>
+  <data name="textFindAProperty" xml:space="preserve">
+    <value>Find a Property</value>
+  </data>
+  <data name="textInfo" xml:space="preserve">
+    <value>info@tradingplacesproperty.com</value>
+  </data>
+  <data name="textLorem" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer</value>
+  </data>
+  <data name="textLorem1" xml:space="preserve">
+    <value>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer</value>
+  </data>
+  <data name="textMandatory" xml:space="preserve">
+    <value>Mandatory field</value>
+  </data>
+  <data name="textName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="textPhone" xml:space="preserve">
+    <value>Phone number</value>
+  </data>
+  <data name="textRegister" xml:space="preserve">
+    <value>Register With Us</value>
+  </data>
+  <data name="textTel" xml:space="preserve">
+    <value>Tel:</value>
+  </data>
+  <data name="textTel020" xml:space="preserve">
+    <value>020 8558 1147</value>
+  </data>
+  <data name="textToBuy" xml:space="preserve">
+    <value>To Buy</value>
+  </data>
+  <data name="textToRent" xml:space="preserve">
+    <value>To Rent</value>
+  </data>
+  <data name="TypeYourMessage" xml:space="preserve">
+    <value>Type your message</value>
+  </data>
+  <data name="_adminMail" xml:space="preserve">
+    <value>AdminMail</value>
+  </data>
+  <data name="_contactUs" xml:space="preserve">
+    <value>ContactUs</value>
+  </data>
+  <data name="_enterYourPhoneNumber" xml:space="preserve">
+    <value>Please write your phone number. \r\nExample: 020-8558-1147</value>
+  </data>
+  <data name="_pleaseEnterYourName" xml:space="preserve">
+    <value>Please enter your name</value>
+  </data>
+  <data name="btnContactUs" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="btnPropertyDetailsFullDetails" xml:space="preserve">
+    <value>Full Details</value>
+  </data>
+  <data name="PropertyDetailsStuff" xml:space="preserve">
+    <value>Whilst every care is taken these particulars are intended as a general guide. All measurements are subject to a margin of error. Trading Places have not tested any of the appliances, services of connections and therefore cannot verify that they are in working order of fir for the purpose. This includes heating systems. All photographs and floor plans are for guidance purposes only and some photographs mat have been taken using a wide angle lens. Fixtures and
+									fittings are only included subject to arrangement. Reference made to the tenure and where applicable lease term is based on information supplied by Trading Places and we strongly recommended potental buyers seek verification on tenure and lease term as well a all other matters through their solicitor.</value>
+  </data>
+  <data name="DetailsNo" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="DetailsYes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="London" xml:space="preserve">
+    <value>London</value>
+  </data>
+  <data name="PLGallery" xml:space="preserve">
+    <value>_Gallery</value>
+  </data>
+  <data name="PLRentAgreed" xml:space="preserve">
+    <value>Rent agreed</value>
+  </data>
+  <data name="PLSaleAgreed" xml:space="preserve">
+    <value>Sale agreed</value>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Price: £</value>
+  </data>
+  <data name="PropertiesForRent" xml:space="preserve">
+    <value>Properties For Rent</value>
+  </data>
+  <data name="PropertiesForSale" xml:space="preserve">
+    <value>Properties For Sale</value>
+  </data>
+  <data name="VOSV" xml:space="preserve">
+    <value>View on Street View</value>
+  </data>
+  <data name="FindaProperty" xml:space="preserve">
+    <value>Find a Property</value>
+  </data>
+  <data name="RegisterWithUs" xml:space="preserve">
+    <value>Register With Us</value>
+  </data>
+  <data name="ToBuy" xml:space="preserve">
+    <value>To Buy</value>
+  </data>
+  <data name="ToRent" xml:space="preserve">
+    <value>To Rent</value>
+  </data>
+  <data name="Error1" xml:space="preserve">
+    <value>Ooups. Some error occured.</value>
+  </data>
+  <data name="Error404" xml:space="preserve">
+    <value>404 Page will be there some day</value>
+  </data>
+  <data name="LogIn" xml:space="preserve">
+    <value>Log In</value>
+  </data>
+  <data name="Pleaselogintoaccesstheadministrativearea" xml:space="preserve">
+    <value>Please log in to access the administrative area:</value>
+  </data>
+  <data name="AddNewItem" xml:space="preserve">
+    <value>Add New Item</value>
+  </data>
+  <data name="ForRent" xml:space="preserve">
+    <value>For Rent</value>
+  </data>
+  <data name="ForSale" xml:space="preserve">
+    <value>For Sale</value>
+  </data>
+  <data name="ListofRentEstate" xml:space="preserve">
+    <value>List of RentEstate</value>
+  </data>
+  <data name="ListofSaleEstate" xml:space="preserve">
+    <value>List of Sale Estate</value>
+  </data>
+  <data name="PropertiesMenu" xml:space="preserve">
+    <value>Properties Menu</value>
+  </data>
+  <data name="AddBuildingText1" xml:space="preserve">
+    <value>Hide a property on your website, PropertySpring, and all data feeds (Rightmove,
+					                etc).</value>
+  </data>
+  <data name="AddBuildingText2" xml:space="preserve">
+    <value>N/B/ Changes may take up to 24 hours to take effect on Rightmove.</value>
+  </data>
+  <data name="Address" xml:space="preserve">
+    <value>Address</value>
+  </data>
+  <data name="Area" xml:space="preserve">
+    <value>Area</value>
+  </data>
+  <data name="Bathrooms" xml:space="preserve">
+    <value>Bathrooms</value>
+  </data>
+  <data name="Bedrooms" xml:space="preserve">
+    <value>Bedrooms</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="DeleteImage" xml:space="preserve">
+    <value>Delete Image</value>
+  </data>
+  <data name="Garden" xml:space="preserve">
+    <value>Garden</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="Livingrooms" xml:space="preserve">
+    <value>Living rooms</value>
+  </data>
+  <data name="MainPhoto" xml:space="preserve">
+    <value>Main Photo</value>
+  </data>
+  <data name="Parking" xml:space="preserve">
+    <value>Parking</value>
+  </data>
+  <data name="Photo" xml:space="preserve">
+    <value>Photo:</value>
+  </data>
+  <data name="Postcode" xml:space="preserve">
+    <value>Postcode</value>
+  </data>
+  <data name="Propertystatus" xml:space="preserve">
+    <value>Property status</value>
+  </data>
+  <data name="SalesCorner" xml:space="preserve">
+    <value>Sale's Corner</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Shower" xml:space="preserve">
+    <value>Shower</value>
+  </data>
+  <data name="SSTC" xml:space="preserve">
+    <value>SSTC</value>
+  </data>
+  <data name="Tenure" xml:space="preserve">
+    <value>Tenure</value>
+  </data>
+  <data name="FurnishedUnfurnished" xml:space="preserve">
+    <value>Furnished status</value>
+  </data>
+  <data name="Sorry" xml:space="preserve">
+    <value>Sorry</value>
+  </data>
+  <data name="Sourceforimage" xml:space="preserve">
+    <value>Source for image</value>
+  </data>
+  <data name="Sourcefornewimage" xml:space="preserve">
+    <value>Source for new image</value>
+  </data>
+  <data name="String1" xml:space="preserve">
+    <value>Delete Image</value>
+  </data>
+  <data name="ThisCmsTypehavenotsomeposts" xml:space="preserve">
+    <value>This cms type have not some posts.</value>
+  </data>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Change Password</value>
+  </data>
+  <data name="ConfirmPassword" xml:space="preserve">
+    <value>Confirm Password</value>
+  </data>
+  <data name="Content" xml:space="preserve">
+    <value>Content</value>
+  </data>
+  <data name="CurrentPassword" xml:space="preserve">
+    <value>Current Password</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="Descriptions" xml:space="preserve">
+    <value>Descriptions</value>
+  </data>
+  <data name="EPC" xml:space="preserve">
+    <value>EPC</value>
+  </data>
+  <data name="Images" xml:space="preserve">
+    <value>Images</value>
+  </data>
+  <data name="InputnewCMSTypeName" xml:space="preserve">
+    <value>Input new CMS Type Name</value>
+  </data>
+  <data name="MainInformation" xml:space="preserve">
+    <value>Main Information</value>
+  </data>
+  <data name="NewPassword" xml:space="preserve">
+    <value>New Password</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>News</value>
+  </data>
+  <data name="Newtitle" xml:space="preserve">
+    <value>New title</value>
+  </data>
+  <data name="PageTitle" xml:space="preserve">
+    <value>Page Title</value>
+  </data>
+  <data name="Plan2D" xml:space="preserve">
+    <value>2D Plan</value>
+  </data>
+  <data name="Plan3D" xml:space="preserve">
+    <value>3D Plan</value>
+  </data>
+  <data name="CreateNewCMSType" xml:space="preserve">
+    <value>Create New CMS Type</value>
+  </data>
+  <data name="LongDescription" xml:space="preserve">
+    <value>Long Description</value>
+  </data>
+  <data name="ShortDescription" xml:space="preserve">
+    <value>Short Description</value>
+  </data>
+  <data name="LogOut" xml:space="preserve">
+    <value>Log Out</value>
+  </data>
+  <data name="CMS" xml:space="preserve">
+    <value>CMS</value>
+  </data>
+  <data name="Incorrectusernameorpassword" xml:space="preserve">
+    <value>Incorrect username or password</value>
+  </data>
+  <data name="Buildingrecordsuccessfullyremoved" xml:space="preserve">
+    <value>Building record successfully removed</value>
+  </data>
+  <data name="CurrentPasswordError" xml:space="preserve">
+    <value>Current password is wrong</value>
+  </data>
+  <data name="InvalidType" xml:space="preserve">
+    <value>Invalid type. Only the following types (jpg, jpeg, png) are supported.</value>
+  </data>
+  <data name="NewPasswordIsRequired" xml:space="preserve">
+    <value>New password is required field</value>
+  </data>
+  <data name="NewPasswordNotMatched" xml:space="preserve">
+    <value>New Password and Confirm password fields are not matched.</value>
+  </data>
+  <data name="NoImage" xml:space="preserve">
+    <value>NoImage.png</value>
+  </data>
+  <data name="PhotoSize" xml:space="preserve">
+    <value>The size of the file should not exceed 10 MB</value>
+  </data>
+  <data name="SomeError" xml:space="preserve">
+    <value>Some error occured. Reload page, please.</value>
+  </data>
+  <data name="SorrySomeerroroccuredCantcreatenewitem" xml:space="preserve">
+    <value>Sorry. Some error occured. Cant create new item.</value>
+  </data>
+  <data name="WriteContentHere" xml:space="preserve">
+    <value>Write content here. You can attach some html styles, pictures and other.</value>
+  </data>
+  <data name="pathToCloseUpFolder" xml:space="preserve">
+    <value>..\..\Content\img\main</value>
+  </data>
+  <data name="pathToOriginalFolder" xml:space="preserve">
+    <value>..\..\Content\img\details</value>
+  </data>
+  <data name="pathToThumbnailFolder" xml:space="preserve">
+    <value>..\..\Content\img\min</value>
+  </data>
+</root>

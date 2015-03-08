@@ -1,0 +1,69 @@
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\New folder (2)\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\New folder (2) Last worked\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\New folder (3)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\New folder (2)\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\l\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\last\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\t1\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.dll
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\bin\Debug\Resourses.pdb
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.AddBuildingResources.resources
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.dll
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.pdb
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.AddBuildingResources.resources
+D:\123\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\New folder\Training Modules\Module 5 MVC\TsevmenkoShop\Resourses\obj\Debug\Resourses.csprojResolveAssemblyReference.cache
+D:\TradingPlacesWF\Resourses\bin\Debug\Resourses.dll
+D:\TradingPlacesWF\Resourses\bin\Debug\Resourses.pdb
+D:\TradingPlacesWF\Resourses\obj\Debug\Resourses.AddBuildingResources.resources
+D:\TradingPlacesWF\Resourses\obj\Debug\Resourses.WebSiteResources.resources
+D:\TradingPlacesWF\Resourses\obj\Debug\Resourses.csproj.GenerateResource.Cache
+D:\TradingPlacesWF\Resourses\obj\Debug\Resourses.dll
+D:\TradingPlacesWF\Resourses\obj\Debug\Resourses.pdb
